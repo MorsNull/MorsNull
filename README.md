@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cloud Engineering Portfolio
 
-<!--
-**MorsNull/MorsNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Status**: Actively learning Cloud engineering / Python / GoLang / DevOps practices
+> 
+> **Current Focus**: Linux fundamentals & AWS core services
+> 
+> **Target**: A portfolio of projects that demonstrates my knowledge and skillsets
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objective
+
+Aspiring cloud engineer developing hands-on expertise in cloud development and architecture - Hoping to get into the industry before 2027
+
